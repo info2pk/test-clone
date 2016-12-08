@@ -11,6 +11,7 @@ This works nicely with the [ngm-ai2html-server](https://github.com/natgeo/ngm-ai
 - Classes more tightly namespaced with "NGAI-"
 - Letter tracking within the browser more closely matches Illustrator
 - Leading uses ems instead of px
+- Addition of NG template that includes font definitions, improved media queries and tweaked artboard sizes, to best integrate with NGM.com
 
 ---
 
