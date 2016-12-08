@@ -1,10 +1,16 @@
 # NGM-ai2html
 
-This is a fork of the NYTimes' ai2html. 
+This is a fork of the NYTimes' ai2html. For installation and full documentation go to [ai2html](http://ai2html.org)
 
 This works nicely with the [ngm-ai2html-server](https://github.com/natgeo/ngm-ai2html-server) to provide local AEM previews.
 
-### Enhancements
+## Issues
+
+If you have issues or feature requests to ai2html, go here:
+[https://jira.natgeo.com/browse/DP-2373](https://jira.natgeo.com/browse/DP-2373)
+Hit the plus sign to the right of “Issues in Epic” to log an issue.
+
+## Enhancements
 
 - Generates font-face definitions for map fonts, supports Verlag and Neue Haas
 - Generates font-smoothing css
@@ -12,6 +18,8 @@ This works nicely with the [ngm-ai2html-server](https://github.com/natgeo/ngm-ai
 - Letter tracking within the browser more closely matches Illustrator
 - Leading uses ems instead of px
 - Addition of NG template that includes font definitions, improved media queries and tweaked artboard sizes, to best integrate with NGM.com
+
+
 
 ---
 
