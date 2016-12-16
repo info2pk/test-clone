@@ -1,8 +1,10 @@
 # NGM-ai2html
 
-This is a fork of the NYTimes' ai2html. For installation and full documentation go to [ai2html](http://ai2html.org)
+This is a fork of the NYTimes' ai2html. For installation and full documentation go to [ai2html](http://ai2html.org). This works nicely with the [ngm-ai2html-server](https://github.com/natgeo/ngm-ai2html-server) to provide local AEM previews.
 
-This works nicely with the [ngm-ai2html-server](https://github.com/natgeo/ngm-ai2html-server) to provide local AEM previews.
+## Installation
+
+Double click on `_INSTALL.command`. If that fails, copy ai2html.js into your Illustrator scripts folder, likely `/Applications/Adobe Illustrator [version]/Presets/en_US/Scripts/`.
 
 ## Issues
 
@@ -17,7 +19,7 @@ Hit the plus sign to the right of “Issues in Epic” to log an issue.
 - Classes more tightly namespaced with "NGAI-"
 - Letter tracking within the browser more closely matches Illustrator
 - Leading uses ems instead of px
-- Addition of NG template that includes font definitions, improved media queries and tweaked artboard sizes, to best integrate with NGM.com
+- Addition of .ai template within `/NG-templates` that includes font definitions, improved media queries and tweaked artboard sizes, to best integrate with NGM.com
 
 
 
