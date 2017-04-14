@@ -1342,8 +1342,8 @@ var fonts = [
 	{"aifont":"NatGeoMcAleer-Heavy","family":"'McaleerHeavy',Georgia,serif","weight":"","style":"", "face":
 		"\n\t\t@font-face {" + 
 		"\n\t\t\tfont-family: 'McaleerHeavy';" + 
-		"\n\t\t\tsrc: url('http://fonts.ngeo.com/maps/1-0-0/mcaleer-heavy..woff2') format('woff2')," +
-		"\n\t\t\turl('http://fonts.ngeo.com/maps/1-0-0/mcaleer-heavy..woff') format('woff');" +
+		"\n\t\t\tsrc: url('http://fonts.ngeo.com/maps/1-0-0/mcaleer-heavy.woff2') format('woff2')," +
+		"\n\t\t\turl('http://fonts.ngeo.com/maps/1-0-0/mcaleer-heavy.woff') format('woff');" +
 		"\n\t\t}"
 	},	
 	{"aifont":"NatGeoMcAleer-Light","family":"'McaleerLight',Georgia,serif","weight":"","style":"", "face":
@@ -1360,14 +1360,14 @@ var fonts = [
 		"\n\t\t\turl('http://fonts.ngeo.com/maps/1-0-0/mcaleer.woff') format('woff');" +
 		"\n\t\t}"
 	},		
-	{"aifont":"NatGeoNeoMolinari-Heavy","family":"'MolinariHeavy',Georgia,serif","weight":"","style":"", "face":
+	{"aifont":"NatGeoMolinari-Heavy","family":"'MolinariHeavy',Georgia,serif","weight":"","style":"", "face":
 		"\n\t\t@font-face {" + 
 		"\n\t\t\tfont-family: 'MolinariHeavy';" + 
 		"\n\t\t\tsrc: url('http://fonts.ngeo.com/maps/1-0-0/molinari-heavy.woff2') format('woff2')," +
 		"\n\t\t\turl('http://fonts.ngeo.com/maps/1-0-0/molinari-heavy.woff') format('woff');" +
 		"\n\t\t}"
 	},
-	{"aifont":"NatGeoNeoMolinari","family":"'Molinari',Georgia,serif","weight":"","style":"", "face":
+	{"aifont":"NatGeoMolinari","family":"'Molinari',Georgia,serif","weight":"","style":"", "face":
 		"\n\t\t@font-face {" + 
 		"\n\t\t\tfont-family: 'Molinari';" + 
 		"\n\t\t\tsrc: url('http://fonts.ngeo.com/maps/1-0-0/molinari.woff2') format('woff2')," +
