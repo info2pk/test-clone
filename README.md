@@ -1,6 +1,6 @@
 # NGM-ai2html
 
-This is a fork of the NYTimes' ai2html. For installation and full documentation go to [ai2html](http://ai2html.org). This works nicely with [trudy](https://github.com/natgeo/ngm-trudy), the Nat Geo Magazine graphics generator and preview tool. A project using trudy will provide an .ai template thats optimized to support natgeo.com.
+This is a fork of the NYTimes' ai2html. For installation and full documentation go to [ai2html](http://ai2html.org). This modified script works nicely with [trudy, the Nat Geo Magazine graphics generator and preview tool](https://github.com/natgeo/ngm-trudy). A project using trudy will provide an [.ai template](https://github.com/natgeo/ngm-trudy/tree/master/project-files/ai2html) thats optimized to support natgeo.com.
 
 ## Installation
 
