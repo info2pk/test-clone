@@ -12,12 +12,6 @@ Pull the latest version: `git pull`
 
 Double click on `_INSTALL.command`. If that fails, manually copy `ai2html.js` into your Illustrator scripts folder, likely `/Applications/Adobe Illustrator [version]/Presets/en_US/Scripts/`.
 
-## Issues
-
-If you have issues or feature requests to ai2html, go here:
-[https://jira.natgeo.com/browse/DP-2373](https://jira.natgeo.com/browse/DP-2373)
-Hit the plus sign to the right of “Issues in Epic” to log an issue.
-
 ## Enhancements
 
 - Generates font-face definitions for map fonts, supports Verlag and Neue Haas
