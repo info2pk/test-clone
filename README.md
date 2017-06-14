@@ -4,7 +4,9 @@ This is a fork of the NYTimes' ai2html. For installation and full documentation 
 
 ## Installation
 
-Double click on `_INSTALL.command`. If that fails, copy ai2html.js into your Illustrator scripts folder, likely `/Applications/Adobe Illustrator [version]/Presets/en_US/Scripts/`.
+Ensure that this project is up to date. Open terminal `cd` to this folder and type `git pull`
+
+Double click on `_INSTALL.command`. If that fails, copy `ai2html.js` into your Illustrator scripts folder, likely `/Applications/Adobe Illustrator [version]/Presets/en_US/Scripts/`.
 
 ## Issues
 
